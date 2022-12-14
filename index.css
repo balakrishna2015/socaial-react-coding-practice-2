@@ -8,7 +8,7 @@ body {
 }
 .bg-container {
   background-image: url("https://assets.ccbp.in/frontend/react-js/social-buttons-bg.png");
-  height: 100vw;
+  min-height: 100vh;
   display: flex;
   justify-content: center;
   flex-direction: column;
